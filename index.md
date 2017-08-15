@@ -7,4 +7,4 @@
 </center>
 
 
-[Live Page](http://live.legalconsortium.org) of the [Global Legal Blockchain Consortium](http://legalconsortium.org)
+[Live Events Page](http://live.legalconsortium.org) of the [Global Legal Blockchain Consortium](http://legalconsortium.org)
